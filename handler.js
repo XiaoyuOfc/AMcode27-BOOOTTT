@@ -537,7 +537,7 @@ export async function handler(chatUpdate) {
                 else
                     m.exp += xp
                 if (!isPrems && plugin.limit && global.db.data.users[m.sender].limit < plugin.limit * 1) {
-                    this.reply(m.chat, `[❗] Limit kau abis dek, beli melalui *${usedPrefix}buy limit*`, m)
+                    this.reply(m.chat, `[❗] Limit kau abis Broo, beli melalui *${usedPrefix}buy limit*`, m)
                     continue // Limit habis
                 }
                 if (plugin.level > _user.level) {
@@ -677,7 +677,7 @@ export async function participantsUpdate({ id, participants, action }) {
             if (chat.welcome) {
                 let groupMetadata = await this.groupMetadata(id) || (conn.chats[id] || {}).metadata
                 for (let user of participants) {
-                    let pp = 'https://telegra.ph/file/2d06f0936842064f6b3bb.png'
+                    let pp = 'https://telegra.ph/file/b47ae9c750f976cebfccb.jpg'
                     try {
                         pp = await this.profilePictureUrl(user, 'image')
                     } catch (e) {
@@ -698,11 +698,11 @@ export async function participantsUpdate({ id, participants, action }) {
                                 groupname: await this.getName(id),
                                 membercount: groupMetadata.participants.length
                             })
-    conn.sendButtonDoc(id, text, wm, action == 'add' ? 'ᴡᴇʟᴄᴏᴍᴇ' : 'sᴀʏᴏɴᴀʀᴀᴀ', action === 'add' ? '.intro' : 'WHMODSDEV', fkontak, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow",
+    conn.sendButtonDoc(id, text, wm, action == 'add' ? 'ᴡᴇʟᴄᴏᴍᴇ' : 'sᴀʏᴏɴᴀʀᴀᴀ', action === 'add' ? '.intro' : 'AMcode27', fkontak, { contextInfo: { externalAdReply: { showAdAttribution: true,
+    mediaUrl: "https://youtube.com/c/JasBiruLangit?sub_confirmation=1",
     mediaType: 2, 
-    description: "https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow", 
-    title: 'WH-MODS-BOT-V1-MultiDevice',
+    description: "https://youtube.com/c/JasBiruLangit?sub_confirmation=1", 
+    title: 'AMcode27-BOT',
     body: wm,
     thumbnail: await(await fetch(action === 'add' ? wel : lea)).buffer(),
     sourceUrl: sgc
@@ -710,7 +710,7 @@ export async function participantsUpdate({ id, participants, action }) {
   })
 /*this.sendHydrated(id, text, '➞' + await this.getName(id), await (await fetch((action == 'add' ? wel : lea))).buffer(), sgc, (action == 'add' ? '💌 WELCOME' : '🐾 BYE'), user.split`@`[0], '🌹 USER', [
       ['ᴍᴇɴᴜ', '/menu'],
-      [(action == 'add' ? '\n\nYAELAH BEBAN GROUP NAMBAH 1 :(' : '\n\nBYE BEBAN! :)'), '...'],
+      [(action == 'add' ? '\n\nYAELAH BEBAN GROUP NAMBAH 1 Nihhh :(' : '\n\nBYE BEBAN! :)'), '...'],
       [null, null]
     ], null, false, { mentions: [user] }) */
                     }
