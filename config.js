@@ -46,10 +46,10 @@ global.ppulsa2 = '08213037447' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/amcode27'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281277875182'
-global.nomorown = '6282138037447'
-global.namebot = 'AMcode27-BOT'
-global.nameown = 'AdheBawor'
+global.nomorbot = '6283813417529'
+global.nomorown = '6282146218274'
+global.namebot = 'REREBOTZ'
+global.nameown = 'RERECANS🌺'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,10 +58,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282138037447', 'AMcode27', true],
-  ['6285211112701', 'AdheBawor', true],
-  ['6281277875182', 'AMcode27-BOT', true],
-  ['6285877009255', 'Nche_yah', true] //Ganti jd nomormu sama Namamu
+  ['6282146218274', 'RiellXd', true],
+  ['6282146218274', 'RiellXd', true],
+  ['6282146218274', 'RiellXd', true],
+  ['6282146218274', 'RiellXd', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝒜𝑀𝒸𝑜𝒹𝑒𝟤𝟩-𝐵𝒪𝒯 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝒜𝑀𝒸𝑜𝒹𝑒𝟤𝟩-𝐵𝒪𝒯 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝒜𝑀𝒸𝑜𝒹𝑒𝟤𝟩-𝐵𝒪𝒯 '
+global.wm = '                「 𝐑𝐄𝐑𝐄𝐁𝐎𝐓𝐙-𝐌𝐃🌼 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝐑𝐄𝐑𝐄𝐁𝐎𝐓𝐙-𝐌𝐃🌼 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝐑𝐄𝐑𝐄𝐁𝐎𝐓𝐙-𝐌𝐃🌼 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝓙𝔞𝐦: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | ɮʏ : ǟɖɦɛ ɮǟաօʀ`
-global.author = '                「 𝒜𝑀𝒸𝑜𝒹𝑒𝟤𝟩-𝐵𝒪𝒯  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | ɮʏ : 𝐑𝐄𝐑𝐄𝐁𝐎𝐓𝐙-𝐌𝐃🌼`
+global.author = '                「 𝐁𝐘 𝐌𝐚𝐧𝐮𝐬𝐢𝐚  あ」'
 
 
 /*============== LOGO ==============*/
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '𝒜𝑀𝒸𝑜𝒹𝑒𝟤𝟩-𝐵𝒪𝒯'
-global.stickauth = `ɮʏ : ǟɖɦɛ ɮǟաօʀ`
+global.stickpack = '𝐑𝐄𝐑𝐄𝐁𝐎𝐓𝐙-𝐌𝐃🌼'
+global.stickauth = `ɮʏ : 𝐑𝐢𝐞𝐥𝐥𝐗𝐝`
 
 global.multiplier = 38 // The higher, The harder levelup
 
