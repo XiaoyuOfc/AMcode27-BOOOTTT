@@ -290,10 +290,10 @@ ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 `
 const listMessage = {
   text: tek,
-  footer: '📮 *Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner',
+  footer: '🌺 𝙍𝙀𝙍𝙀𝘽𝙊𝙏𝙕-𝙈𝘿 | 𝘼𝙇𝙇 𝙍𝙀𝙑𝙀𝙍𝙎𝙀𝘿',
   mentions: await conn.parseMention(tek),
   title: `${htki} *LIST MENU* ${htka}`,
-  buttonText: `CLICK HERE ⎙`, 
+  buttonText: `CLICK HERE `, 
   sections
 }
   if (teks == '404') {
