@@ -10,7 +10,7 @@ contextInfo: { externalAdReply :{
                         description: 'anu',
                         title: bottime,
                         body: 'Total Cintaku Padamu',          previewType: 0,
-                        thumbnail: fs.readFileSync("./thumbnail.jpg"),
+                        thumbnail: fs.readFileSync("https://telegra.ph/file/1c2668a1f2cf1dd1d44e3.jpg"),
                         sourceUrl: sig
                       }}
 })
