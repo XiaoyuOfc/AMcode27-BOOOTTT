@@ -2,7 +2,7 @@ import fetch from 'node-fetch'
 
 let handler = async (m, { text, usedPrefix, command }) => {
     if (!text) throw `Pengunaan:\n${usedPrefix + command} <teks>\n\nContoh:\n${usedPrefix + command} Jakarta`
-    let res = await fetch(API('https://api.openweathermap.org', '/data/2.5/weather', {
+    let res = await fetch(API('https://api.openweathermap.org/data/3.0/onecall?lat=33.44&lon=-94.04&exclude=hourly,daily&appid={API key}', {
         q: text,
         units: 'metric',
         appid: '060a6bcfa19809c2cd4d97a212b19273'
