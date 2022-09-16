@@ -34,7 +34,7 @@ let info = `
 • *Dana:* [${pdana}]
 • *Gopay:* [${pgopay}]
 • *Ovo:* [${povo}]
-• *Link Aja:* [${plinkaja}]
+• *Shopeepay:* [${plinkaja}]
 
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
