@@ -4,7 +4,7 @@ let handler = async (m, { conn, text } ) => {
 
  for (let id of groups) {
  let member = (await conn.groupMetadata(id)).participants.map(v => v.jid)
-conn.sendButton(id, '────━┅ *BROADCAST* ┅━────\n' + text, wm, fla + 'BROADCAST', [['OWNER 🎐', '.owner'],['DONASI ✨', '.donasi']], false, { contextInfo: { externalAdReply: {title: namebot, body: bottime, sourceUrl: sig, thumbnail: fs.readFileSync('./thumbnail.jpg') }}})
+conn.sendButton(id, '────━┅ *BROADCAST* ┅━────\n' + text, wm, fla + 'BROADCAST', [['OWNER 🎐', '.owner'],['DONASI ✨', '.donasi']], false, { contextInfo: { externalAdReply: {title: namebot, body: bottime, sourceUrl: sig, thumbnail: fs.readFileSync('https://telegra.ph/file/1c2668a1f2cf1dd1d44e3.jpg') }}})
   }
 }
 handler.command = ['bcgcb']
