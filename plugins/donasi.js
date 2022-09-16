@@ -8,7 +8,7 @@ let text = `
 │ • *Dana:* [${global.pdana}]
 │ • *Gopay:* [${global.pgopay}]
 │ • *Ovo:* [${global.povo}]
-│ • *Link Aja:* [${global.plinkaja}]
+│ • *Shopeepay:* [${global.plinkaja}]
 ❏────
 `
 const templateButtons = [
