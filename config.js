@@ -58,10 +58,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
+  ['6283840600765', 'RiellXd', true],
   ['6282146218274', 'RiellXd', true],
   ['6282146218274', 'RiellXd', true],
-  ['6282146218274', 'RiellXd', true],
-  ['6282146218274', 'RiellXd', true] //Ganti jd nomormu sama Namamu
+  ['6283840600765', 'RiellXd', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝐑𝐄𝐑𝐄𝐁𝐎𝐓𝐙-𝐌𝐃🌼 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝐑𝐄𝐑𝐄𝐁𝐎𝐓𝐙-𝐌𝐃🌼 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝐑𝐄𝐑𝐄𝐁𝐎𝐓𝐙-𝐌𝐃🌼 '
+global.wm = '                「 PUTRABOTZ-𝐌𝐃🌼 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘PUTRABOTZ-𝐌𝐃🌼 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ PUTRABOTZ-𝐌𝐃🌼 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝓙𝔞𝐦: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | ɮʏ : 𝐑𝐄𝐑𝐄𝐁𝐎𝐓𝐙-𝐌𝐃🌼`
-global.author = '                「 𝐁𝐘 𝐌𝐚𝐧𝐮𝐬𝐢𝐚  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | ɮʏ : PUTRABOTZ-𝐌𝐃🌼`
+global.author = '                「 BY PUTRA  あ」'
 
 
 /*============== LOGO ==============*/
