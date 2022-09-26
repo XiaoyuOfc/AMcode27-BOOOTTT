@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 PUTRABOTZ-𝐌𝐃🌼 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘PUTRABOTZ-𝐌𝐃🌼 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ PUTRABOTZ-𝐌𝐃🌼 '
+global.wm = '                「 REREBOTZ-𝐌𝐃🌼 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘REREBOTZ-𝐌𝐃🌼 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ REREBOTZ-𝐌𝐃🌼 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝓙𝔞𝐦: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | ɮʏ : PUTRABOTZ-𝐌𝐃🌼`
-global.author = '                「 BY PUTRA  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | ɮʏ : REREBOTZ-𝐌𝐃🌼`
+global.author = '                「 rielXd  あ」'
 
 
 /*============== LOGO ==============*/
